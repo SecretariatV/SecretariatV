@@ -19,6 +19,11 @@ Hi, I'm Secretariat.
 |     2| Python    |
 |     3| SQL       |
   </details>
+  
+  ---
+  > If we pull together and commit ourselves, then we can push through anything.
+
+- Mona the SecretariatV
 <!--
 **SecretariatV/SecretariatV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
