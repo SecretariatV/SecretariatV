@@ -10,7 +10,7 @@
 
 Hi, I'm Secretariat.
 
-<details>
+<details open>
   <Summary>My top THINGS-TO-RANL</summary>
   
 | Rank | Languages |
