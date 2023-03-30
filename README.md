@@ -24,6 +24,15 @@ Hi, I'm Secretariat.
   > If we pull together and commit ourselves, then we can push through anything.
 
 - Mona the SecretariatV
+
+## Here is a simple flow chart:
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+ ```
 <!--
 **SecretariatV/SecretariatV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
