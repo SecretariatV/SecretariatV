@@ -30,8 +30,22 @@
 <table align="center">
   <tr>
     <td valign="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    </td>
+    <td valign="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+    </td>
+    <td valign="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+    </td>
+    <td valign="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+    </td>
+    <td valign="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+    </td>
+    <td valign="center" width="96">
+      <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
     </td>
 
 
