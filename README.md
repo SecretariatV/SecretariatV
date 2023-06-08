@@ -8,7 +8,6 @@
 - 💬 Ask me about **React, CSS, SCSS, GSAP**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
   <table align="left">
     <tr>
       <td align="center" width="96">
@@ -16,10 +15,13 @@
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oliver_b_25" height="65" width="65" />
         </a>
       </td>
+      <td align="center" width="96">
+        <a href="https://www.leetcode.com/secretariatv" target="blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="secretariatv" height="65" width="65" />
+        </a>
+      </td>
     </tr>
   </table>
-<a href="https://www.leetcode.com/secretariatv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="secretariatv" height="30" width="40" /></a>
-</p>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
