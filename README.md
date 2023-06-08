@@ -43,13 +43,22 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td valign="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="icon" width="65" height="65" />
+      </td>
+      <td valign="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="icon" width="65" height="65" />
+      </td>
+      <td valign="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="icon" width="65" height="65" />
+      </td>
+      <td valign="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="icon" width="65" height="65" />
       </td>
       <td valign="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
       </td>
     </tr>
   </table>
