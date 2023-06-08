@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <table align="center">
+  <table align="left">
     <tr>
       <td align="center" width="96">
         <a href="https://www.hackerrank.com/oliver_b_25" target="blank">
