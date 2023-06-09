@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oliver</h1>
+<h1 align="center">Only those who know the taste of sweat can succeed.</h1>
 <h3 align="center">A passionate fullstack developer from Denmark</h3>
 
 - 🔭 I’m currently working on **freeCodeCamp**
