@@ -12,7 +12,7 @@
 <table align="left">
   <tr>
     <td align="center" width="60">
-      <a href="https://www.hackerrank.com/oliver_b_25" target="blank">
+      <a href="https://www.hackerrank.com/Oliver_Y_25?hr_r" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oliver_b_25" height="45" width="45" />
       </a>
     </td>
