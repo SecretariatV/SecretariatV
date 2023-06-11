@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="60">
       <a href="https://www.freecodecamp.org/certification/SecretariatV/responsive-web-design" target="blank">
-        <img alt="leetcode" height="45" width="45" src="/assets/free-codecamp.svg">
+        <img alt="leetcode" width="50" src="/assets/free-codecamp.svg" style="background-color: white">
       </a>
     </td>
   </tr>
