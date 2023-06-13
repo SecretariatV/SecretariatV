@@ -72,8 +72,7 @@
       </td>
     </tr>
   </table>
-</div>
-  <br/>
+  </div>
   
 ### Back end
 <div style="display: flex; align-items: flex-start; align: center">
@@ -100,7 +99,6 @@
     </tr>
   </table>
 </div>
-<br/>
 
 ### Database
 <div style="display: flex; align-items: flex-start; align: center">
@@ -121,7 +119,6 @@
     </tr>
   </table>
 </div>
- <br/>
  
 ### Tools
 <div style="display: flex; align-items: flex-start; align: center">
@@ -146,4 +143,3 @@
     </tr>
   </table>
 </div>
-<br/>  
