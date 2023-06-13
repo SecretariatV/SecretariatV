@@ -23,7 +23,12 @@
     </td>
     <td align="center" width="60">
       <a href="https://www.freecodecamp.org/certification/SecretariatV/responsive-web-design" target="blank">
-        <img alt="leetcode" width="50" src="/assets/free-codecamp.svg" style="background-color: white">
+        <img alt="leetcode" width="50" src="/assets/free-codecamp.svg">
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.freecodecamp.org/certification/SecretariatV/javascript-algorithms-and-data-structures" target="blank">
+        <img alt="leetcode" width="50" src="/assets/free-codecamp.svg">
       </a>
     </td>
   </tr>
