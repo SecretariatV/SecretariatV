@@ -91,6 +91,9 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td valign="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="icon" width="65" height="65" />
+      </td>
+      <td valign="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       </td>
       <td valign="center" width="96">
@@ -112,9 +115,6 @@
       </td>
       <td valign="center" width="96">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="icon" width="65" height="65" />
       </td>
     </tr>
   </table>
