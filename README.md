@@ -1,145 +1,38 @@
-<h1 align="center">Success is the product of hard work.</h1>
-<h3 align="center">Only those who work hard deserve to see the sun.</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Coding+and+learning+daily!&font=Fira%20Code&center=true&width=440&height=45&color=b1066c&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-- 🔭 I’m currently working on **freeCodeCamp**
+|                      | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend Development | ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange) ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/Vue-green) ![Static Badge](https://img.shields.io/badge/SCSS-red) ![Static Badge](https://img.shields.io/badge/Styled-Components-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) |
+| Backend Development  | ![Static Badge](https://img.shields.io/badge/Exress-olivegreen) ![Static Badge](https://img.shields.io/badge/Node.js-white) ![Static Badge](https://img.shields.io/badge/C#-red) ![Static Badge](https://img.shields.io/badge/Rust-blue)                                                                                                                                                                                                                                                                                                           |
+| Databases            | ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/MongoDB-olive)                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Version Control      | ![Static Badge](https://img.shields.io/badge/Git-tomato) ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet)                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Testing              | ![Static Badge](https://img.shields.io/badge/Jest-red) ![Static Badge](https://img.shields.io/badge/vitest-brown) ![Static Badge](https://img.shields.io/badge/Cypress-brown) ![Static Badge](https://img.shields.io/badge/Story-book-pink) ![Static Badge](https://img.shields.io/badge/React-testing-library-brown)                                                                                                                                                                                                                              |
+| Others               | ![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Vercel-black)                                                                                                                                                                                                                                                                                                                                                                       |
 
-- 🌱 I’m currently learning **Python**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**
 
-- 💬 Ask me about **React, CSS, SCSS, GSAP**
-
-## Learning and Certifications
-<table><tr><td valign="top" width="33%">
-<table align="left">
-  <tr>
-    <td align="center" width="60">
-      <a href="https://www.hackerrank.com/Oliver_Y_25?hr_r" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="oliver_b_25" height="45" width="45" />
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.leetcode.com/secretariatv" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="secretariatv" height="45" width="45" />
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.freecodecamp.org/certification/SecretariatV/responsive-web-design" target="blank">
-        <img alt="leetcode" width="50" src="/assets/free-codecamp.svg">
-      </a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.freecodecamp.org/certification/SecretariatV/javascript-algorithms-and-data-structures" target="blank">
-        <img alt="leetcode" width="50" src="/assets/free-codecamp.svg">
-      </a>
-    </td>
-  </tr>
-</table>
-</table>
-
-## My Skill Set  
-  ### Front end
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-    </tr>
-  </table>
-  </div>
+<div style="display: flex; gap: 10px;">
+  <a href="https://leetcode.com/SecretariatV/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="akshita50" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/SecretariatV/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="akshita50" height="200" width="200" />
+  </a>
   
-### Back end
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td valign="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://leetcode.com/SecretariatV/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="akshita50" height="200" width="200" />
+  </a>
 </div>
 
-### Database
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="icon" width="65" height="65" />
-      </td>
-    </tr>
-  </table>
-</div>
- 
-### Tools
-<div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
-    <tr>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="icon" width="65" height="65" />
-      </td>
-      <td valign="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="icon" width="65" height="65" />
-      </td>
-      </td>
-    </tr>
-  </table>
-</div>
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SecretariatV?theme=dark&font=Nunito&ext=heatmap" />
+
+<p align="center"> <img src="https://raw.githubusercontent.com/arshiyaakishore/snake-for-readme/main/snakegame.svg" alt="Snake animation" /> </p>
+
+<!-- graph -->
+<p>&nbsp;<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=akshiita07&theme=react-dark"  alt="akshiita07" /></p>
+
+<br>
