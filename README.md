@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Coding+and+learning+daily!&font=Fira%20Code&center=true&width=440&height=45&color=b1066c&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Coding+and+learning+daily!&font=Fira%20Code&center=true&width=440&height=45&color=b1066c&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <!-- <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <!-- <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
 |                      | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
