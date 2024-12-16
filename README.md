@@ -28,10 +28,9 @@
 | Version Control      | ![Static Badge](https://img.shields.io/badge/Git-tomato) ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Testing              | ![Static Badge](https://img.shields.io/badge/Jest-red) ![Static Badge](https://img.shields.io/badge/vitest-brown) ![Static Badge](https://img.shields.io/badge/Cypress-brown) ![Static Badge](https://img.shields.io/badge/Storybook-pink) ![Static Badge](https://img.shields.io/badge/ReactTestingLibrary-brown)                                                                                                                                                                                                                                |
 | Others               | ![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Vercel-black)                                                                                                                                                                                                                                                                                                                                                                      |
-
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**
 
-<!--
 <div style="display: flex; gap: 10px;">
   <a href="https://leetcode.com/SecretariatV/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="akshita50" height="200" width="200" />
