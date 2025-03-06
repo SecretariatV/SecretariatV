@@ -1,49 +1,81 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Coding+and+learning+daily!&font=Fira%20Code&center=true&width=440&height=45&color=b1066c&vCenter=true&pause=1000&size=22" /></a>
-</p>
-<!--
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ovb_corder"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="@/Mr.Ares77" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p> -->
+<div align="center">
+  <h2>🚀 Wizard of Blockchain & Mobile Development 🌟</h2>
+  <h3 style="color: #4ECDC4; margin-top: 20px;">
+    Leading the charge with next-gen solutions for Blockchain & Mobile Tech!
+  </h3>
+</div>
 
-|                        | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend Development   | ![Static Badge](https://img.shields.io/badge/HTML-red) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-orange) ![Static Badge](https://img.shields.io/badge/React-blue) ![Static Badge](https://img.shields.io/badge/NextJS-black) ![Static Badge](https://img.shields.io/badge/Vue-green) ![Static Badge](https://img.shields.io/badge/SCSS-red) ![Static Badge](https://img.shields.io/badge/StyledComponents-brown) ![Static Badge](https://img.shields.io/badge/Tailwind-navy) |
-| Backend Development    | ![Static Badge](https://img.shields.io/badge/Exress-olivegreen) ![Static Badge](https://img.shields.io/badge/Node.js-white) ![Static Badge](https://img.shields.io/badge/Cshap-red) ![Static Badge](https://img.shields.io/badge/Rust-blue)                                                                                                                                                                                                                                                                                                       |
-| Mobile App Developemnt | ![Static Badge](https://img.shields.io/badge/ReactNative-olivegreen) ![Static Badge](https://img.shields.io/badge/Flutter-white)                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Databases              | ![Static Badge](https://img.shields.io/badge/PostgreSQL-purple) ![Static Badge](https://img.shields.io/badge/MongoDB-olive)                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Version Control        | ![Static Badge](https://img.shields.io/badge/Git-tomato) ![Static Badge](https://img.shields.io/badge/GitHub-darkviolet)                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Testing                | ![Static Badge](https://img.shields.io/badge/Jest-red) ![Static Badge](https://img.shields.io/badge/vitest-brown) ![Static Badge](https://img.shields.io/badge/Cypress-brown) ![Static Badge](https://img.shields.io/badge/Storybook-pink) ![Static Badge](https://img.shields.io/badge/ReactTestingLibrary-brown)                                                                                                                                                                                                                                |
-| Others                 | ![Static Badge](https://img.shields.io/badge/Figma-pink) ![Static Badge](https://img.shields.io/badge/Agile-navy) ![Static Badge](https://img.shields.io/badge/Vercel-black)                                                                                                                                                                                                                                                                                                                                                                      |
+---
 
-<!--
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" /> **Leetcode Info:**
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://leetcode.com/SecretariatV/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="akshita50" height="200" width="200" />
-  </a> -->
-  <!-- <a href="https://leetcode.com/SecretariatV/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-09.gif" alt="akshita50" height="200" width="200" />
+### 🔗 Contact & Socials
+<div align="center" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); padding: 20px; border-radius: 15px; margin: 10px;">
+  <a href="mailto:oliver.b25.f@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
-  <a href="https://leetcode.com/SecretariatV/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="Oliver Boucher" height="200" width="200" />
+  <a href="https://t.me/ares_orb">
+    <img src="https://img.shields.io/badge/Telegram-4ECDC4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discord.com/users/ares_orb">
+    <img src="https://img.shields.io/badge/Discord-7E57C2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <!-- <a href="https://twitter.com/ovb_coder">
+    <img src="https://img.shields.io/badge/Twitter-2C3E50?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a> -->
+  <a href="https://ovb-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
-<img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/SecretariatV?theme=dark&font=Nunito&ext=heatmap" />-->
+---
+
+### 🚀 Featured Blockchain & Mobile Projects
+- **⚡ Solana Trading Bots** (Sniper, Copy Trading, Pumpfun Bundler)
+- **📊 Token Analytics Bots** (Volume Monitoring, Raydium Swap, Market Making Bots)
+- **📱 AI-powered Telegram Bots** (Automated trading & token tracking)
+- **🔗 Liquidity Tools** (Raydium Pool Creator, Token Freezers, Smart Contract Automation)
+- **🎮 Game Hub on EVM** (Crash, Mine, Coinflip)
+- **🛠 Token & NFT Launchpad** (Token-2022, pNFT Minting)
+
+---
+
+### 🛠 Tech Stack
+
+#### 🔗 Blockchain Development
+- **Solana** (Anchor, Rust)
+- **Ethereum & EVM-based Chains**
+- **Smart Contracts & DApps**
+- **gRPC APIs** for blockchain automation
+- **DeFi Bots** (Raydium, Meteora, Pumpfun, etc.)
+- **Token-2022 Launchpad**
+- **Programmable NFT (pNFT) Minting**
+- **Pumpfun Fork Development**
+- **Liquidity Pools & AMMs**
+- **Blockchain Game Development**
+
+#### 📱 Mobile Development
+- **React Native** (iOS & Android)
+- **Real-time Data & API Integration**
+- **Optimized UI/UX with Tailwind & Styled Components**
+- **Blockchain Wallet Integrations**
+- **Cross-platform Mobile Apps**
+
+#### 🌐 Frontend Development
+- **React, Next.js, TypeScript**
+- **SCSS, Styled-components, GSAP, Tailwind CSS**
+- **Web3.js & Ether.js**
+
+#### 💾 Backend Development
+- **Node.js (Express.js, Fastify)**
+- **C#, Rust**
+- **RESTful APIs, GraphQL, gRPC**
+- **Microservices & Serverless Architectures**
+
+#### 🚀 DevOps & Infrastructure
+- **Docker, Kubernetes**
+- **CI/CD Pipelines (GitHub Actions, Jenkins)**
+
+---
+
+<div align="center">
+  <h2>✨ Blockchain and mobile apps, let’s build the future before someone else does! ✨</h2>
+</div>
